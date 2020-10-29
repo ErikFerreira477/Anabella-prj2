@@ -1,0 +1,1 @@
+Site feito em 2 ou 3 horas com o objetivo de aprender CSS mais a fundo. Todas as imagens foram fornecidas no material do curso (feito dia 09/10/2020).

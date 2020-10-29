@@ -1,0 +1,47 @@
+body{
+    background-image: url('Arquivos/fundo.png');
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.op{
+    color:#4F4F4F;
+    font-size: 25px;
+}
+
+#barra{
+    background-color: #d3a27f;
+    padding: 15px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    
+}
+
+a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.corpo{
+    background: #e8e8d9;
+    padding: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+
+.rodape {
+    text-align: center;
+}
+
+h1{
+    color: #828271;
+    font-size: 1.2em;
+}
+
+.img-campanha{
+    border: 10px solid #c3c3ae;
+}
